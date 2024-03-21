@@ -1,5 +1,11 @@
 # API Documentation
 
+# Setup steps :
+
+- npm install
+
+- npm start
+
 ## Products Endpoints
 
 ### Get All Products
